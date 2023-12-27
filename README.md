@@ -6,6 +6,8 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0a4acc30a9ce440087f7688735359bb8)](https://www.codacy.com/app/drummeraidan_50/material-dialogs?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=afollestad/material-dialogs&amp;utm_campaign=Badge_Grade)
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
+[کاتلین فارسی](https://avasam.ir/product/48/Kotlin-full-course-by-sam-nikzad)
+
 ---
 
 ![Showcase](https://raw.githubusercontent.com/afollestad/material-dialogs/main/art/showcase4.png)
