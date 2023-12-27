@@ -1,4 +1,4 @@
-# Material Dialogs
+# متریال دیزاین برای کاتلین
 
 #### [View Releases and Changelogs](https://github.com/afollestad/material-dialogs/releases)
 
